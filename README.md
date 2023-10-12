@@ -1,5 +1,6 @@
-### Hi there 👋 I am Nur Shahirah Binti Jailani
-
+<h1 align="center">
+  Hi there, I'm Shahirah Jailani✨
+</h1> 
 <!--
 **Shahirah00/Shahirah00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
