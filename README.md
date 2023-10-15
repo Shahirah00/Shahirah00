@@ -6,13 +6,13 @@ I'm Shahirah Jailani!
   - <i> Currently:</i> Master of Philosophy CS Student at University of Technology Malaysia, Johor.
   - <i> Previously:</i> Bachelor of Computer Science (Honours) Student at UiTM Campus Jasin, Malacca.
 
-### 💻 I'm Currently Learning
+### 👩🏽‍💻 I'm Currently Learning
  __University of Technology Malaysia__
   - Introduction to Technopreneurship
   - Big Data Management
   - Advanced Computer Science
     
-## Tech Stack
+## 💻Tech Stack
 Database<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
