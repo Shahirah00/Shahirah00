@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/originals/6b/02/c3/6b02c37048f056121ecb61967a6b217b.jpg" alt="Girl in a jacket" width="20%" height="20%" >
+<center>
+  <img src="https://media.tenor.com/oiwJGJBu1k0AAAAd/plants-window.gif" class="centerImage" alt="Girl in a jacket" width="400px" height="200px">
+</center>
 
 ## Hey!👋
 
