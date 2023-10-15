@@ -38,10 +38,10 @@ Languages<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🙋🏽‍♀️ About Shahirah :
-I'm a graduate student from Malaysia's Johor state. Outside of tech, I enjoy listening to music, and exploring nature. Feel free to connect with me on professional platforms:
-- Let's connect: <a href="https://www.linkedin.com/in/nur-shahirah-binti-jailani-109548249/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-- Write to me: <a href="nshahirah657@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+### 🙋🏽‍♀️ About Shahirah 
+Currently enrolled in Universiti Teknologi Malaysia, Skudai as a first year postgraduate in computer science. Outside of tech, I enjoy listening to music, and exploring nature. Feel free to connect with me on professional platforms:<br><br>
+ <a href="https://www.linkedin.com/in/nur-shahirah-binti-jailani-109548249/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+<a href="nshahirah657@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!--
 **Shahirah00/Shahirah00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
