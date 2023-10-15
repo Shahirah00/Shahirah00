@@ -1,5 +1,5 @@
 <center>
-  <img src="https://media.tenor.com/saZMskANYroAAAAC/notebook-pc.gif" class="centerImage" alt="Girl in a jacket" width="300px" height="200px">
+  <img src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" class="centerImage" alt="Girl in a jacket" width="400px" height="200px">
 </center>
 
 ## Hey!👋
