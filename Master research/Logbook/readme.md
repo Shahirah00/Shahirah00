@@ -7,5 +7,5 @@
 | 13/11/2023 | Do correction on LR mindmap |
 | 15/11/2023 | Designed user interface dashboard using powerpoint |
 | 16/11/2023 | Started writing literature review (LR)<br> - 2.1 Overview of Heritage Architecture <br> - 2.2 Microclimate Monitoring |
-| 19/11/2023 | Coutinued writing LR<br> -2.5 Development Approaches |
-| 20/11/2023 | Coutinued writing LR<br> -2.5.1 Web Development Approaches <br> -2.5.2 Native Development Approaches |
+| 19/11/2023 | Coutinued writing LR<br> - 2.5 Development Approaches |
+| 20/11/2023 | Coutinued writing LR<br> - 2.5.1 Web Development Approaches <br> - 2.5.2 Native Development Approaches |
