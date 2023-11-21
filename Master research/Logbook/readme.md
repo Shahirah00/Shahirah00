@@ -9,3 +9,4 @@
 | 16/11/2023 | Started writing literature review (LR)<br> - 2.1 Overview of Heritage Architecture <br> - 2.2 Microclimate Monitoring |
 | 19/11/2023 | Coutinued writing LR<br> - 2.5 Development Approaches |
 | 20/11/2023 | Coutinued writing LR<br> - 2.5.1 Web Development Approaches <br> - 2.5.2 Native Development Approaches |
+| 21/11/2023 | Coutinued writing LR<br> - 2.5.3 Comparison between Web and Native Development Approaches <br> - 2.4 Visualization Technique |
