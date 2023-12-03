@@ -12,3 +12,8 @@ https://cds.climate.copernicus.eu/#!/search?text=ERA5&type=dataset&keywords=((%2
 | ----- | ----- |
 | The main influence factors on microclimate explained | https://rheologic.net/articles/influence-factors-microclimate/ |
 | Predictive Maintainence |  https://www.aegasislabs.com/case-study/predictive-maintainence/  |
+
+### Meeting
+| Title | Link |
+| ----- | ---- |
+| Meeting with meteorological officer on 30/12/2023 | https://utm.webex.com/utm/lsr.php?RCID=be923bd57c39730db7945068bcd5cf70 |
